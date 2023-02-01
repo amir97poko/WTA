@@ -1,0 +1,916 @@
+@media(max-width:1800px){
+    .img {
+        margin-left: 40px;
+    }
+    .International {
+        max-width: 90px;
+        font-size: 14px;
+        line-height: 21px;
+        color: #FFFFFF;
+    }
+    .Ministry {
+        max-width: 219px;
+        font-size: 12px;
+        line-height: 20px;
+        color: #FFFFFF;
+    }
+    .ES {
+        width: 54%;
+        height: 82%;
+    }
+    .Funded {
+        max-width: 153px;
+        font-size: 14px;
+        line-height: 20px;
+        color: #FFFFFF;
+    }
+}
+@media(max-width:1570px){
+    .img {
+        margin-left: 30px;
+    }
+    .font {
+        left: 128px;
+    }
+
+}
+@media(max-width:1460px){
+    .bene__text {
+        font-size: 10px;
+    }
+    .bene__search_one{
+        font-size: 16px;
+    }
+    .bene__search {
+        font-size: 16px;
+    }
+    .bene__search_tree {
+        font-size: 16px;
+    }
+    .header__img {
+        width: 62.07px;
+        height: 60px;
+    }
+    .International{
+        line-height: 20px;
+    }
+    .img {
+        margin-left: 0px;
+    }
+    .foresson__text {
+        font-size: 18px;
+    }
+    .box {
+
+        display: grid;
+        justify-content: center;
+        margin: 5px auto;
+        grid-template: repeat(2, 250px) / repeat(3, 420px);
+        gap: 20px;
+        grid-template-areas:'one two tree'
+                            'four five six'; 
+    }
+    .bene__box a{
+        padding: 25px;
+    }
+    .bene__box_duble a {
+        gap: 55px;
+        padding: 40px;
+    }
+}
+@media(max-width:1330px){
+    .img {
+        margin-left: 0px;
+    }
+    .font {
+        left: 104px;
+    }
+    .bene__duble{
+        gap: 25px;
+    }
+    .footer__block_all {
+        gap: 75px;
+    }
+    .header__img {
+        width: 53.07px;
+        height: 50px;
+    }
+    .ES{
+        width: 42%;
+        height: 85%;
+    }
+    .box {
+        display: grid;
+        justify-content: center;
+        margin: 5px auto;
+        grid-template: repeat(2, 220px) / repeat(3, 390px);
+        gap: 20px;
+        grid-template-areas:
+            'one two tree'
+            'four five six';
+    }
+    .foresson__text {
+        font-size: 15px;
+    }
+    .turns {
+        padding: 14px 14px;
+    }
+    .news__box a {
+        padding: 20px;
+    }
+    .planat {
+        width: 18%;
+    }
+    .scribble {
+        width: 27%;
+    }
+    .Funded{
+        max-width: 65px;
+        font-size: 10px;
+    }
+    .Ministry{
+        max-width: 129px;
+        font-size: 10px;
+        line-height: 17px;
+    }
+    .International{
+        max-width: 60px;
+        font-size: 10px;
+        line-height: 17px;
+    }    
+    .bene__box_duble a {
+        gap: 85px;
+        padding: 20px;
+    }
+    .bene__box a {
+        padding: 20px;
+    }
+    .bene__box_duble a {
+        gap: 92px;
+        padding: 20px;
+    }
+    .bene__Trade {
+        font-size: 14px;
+        line-height: 23px;
+    }
+    .bene__text {
+        font-size: 10px;
+        line-height: 15px;
+    }
+    .bene__search_one {
+        font-size: 14px;
+        line-height: 24px;
+    }
+    .bene__box a {
+        padding: 20px;
+    }
+    .bene__search {
+        font-size: 15px;
+        line-height: 23px;
+    }
+    .bene__search_tree {
+        font-size: 17px;
+        line-height: 27px;
+        margin-bottom: 47px;
+    }
+}
+@media(max-width:1246px){
+    .box {
+        display: grid;
+        justify-content: center;
+        margin: 5px auto;
+        grid-template: repeat(2, 190px) / repeat(3, 360px);
+        gap: 20px;
+        grid-template-areas:
+            'one two tree'
+            'four five six';
+    }
+    .foresson__text {
+        font-size: 13px;
+    }
+    .news__text {   
+    font-size: 15px;
+    line-height: 21px;
+    }
+    .news__text {
+    font-size: 15px;
+    line-height: 21px;
+    }
+
+}
+@media(max-width:1160px){
+    .foresson__text {
+        font-size: 11px;
+    }
+    .footer__block_all {
+        gap: 45px;
+    }
+    .box {
+        display: grid;
+        justify-content: center;
+        margin: 5px auto;
+        grid-template: repeat(2, 160px) / repeat(3, 330px);
+        gap: 20px;
+        grid-template-areas:
+            'one two tree'
+            'four five six';
+    }
+        .factary__text {
+        font-size: 13px;
+        line-height: 25px;
+    }
+    .footer__block_all {
+        gap: 82px;
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+    .factary__text span {
+        font-size: 13px;
+        line-height: 25px;
+    }
+    .title__h1 {
+        font-size: 30px;
+        line-height: 56px;
+    }
+    .foresson__title {
+        font-size: 34px;
+        line-height: 48px;
+    }
+    .vision {
+        font-size: 12px;
+        line-height: 20px;
+    }
+    .more a {
+        font-size: 15px;
+        line-height: 24px;
+        padding: 16px 35px;
+    }
+    .foresson__spel {
+        font-size: 18px;
+        line-height: 140%;
+    }
+    .foresson__search a {
+        font-size: 12px;
+        line-height: 24px;
+        padding: 12px 20px;
+    }
+    .news__text {
+        font-size: 14px;
+        line-height: 21px;
+    }
+    .news__block_text {
+        font-size: 12px;
+        line-height: 15px;
+    }
+}
+@media(max-width:1064px){
+    .duble__li a {
+        font-size: 14px;
+        line-height: 0px;
+    }
+    .duble__lenguage a {
+        font-size: 15px;
+        line-height: 24px;
+    }
+    .bene__duble {
+        gap: 25px;
+        flex-wrap: wrap;
+        justify-content: center;
+        max-width: 1029px;
+    }   
+    .title__h1 {
+        font-size: 28px;
+        line-height: 56px;
+    }
+    .six{
+        padding: 12px;
+        gap: 19px;
+    }
+    .five{
+        padding: 12px;
+    }
+    .four{
+        padding: 12px;
+    }
+    .tree{
+        padding: 12px;
+    }
+    .twu{
+        padding: 12px;
+    }
+    .one{
+        padding: 12px;
+    }
+    .foresson__search a {
+        font-size: 9px;
+        line-height: 24px;
+        padding: 12px 20px;
+    }
+    .foresson__title {
+        font-size: 26px;
+        line-height: 48px;
+    }
+    .duble__ol {
+        display: flex;
+        justify-content: center;
+        flex-wrap: wrap;
+        gap: 35px;
+    }                             
+    .foresson__text {
+        font-size: 9px;
+    }
+    .box {
+        display: grid;
+        justify-content: center;
+        margin: 5px auto;
+        grid-template: repeat(2, 130px) / repeat(3, 260px);
+        gap: 20px;
+        grid-template-areas:
+            'one two tree'
+            'four five six';
+    }
+}
+@media(max-width:1024px){
+    .ES {
+        width: 30%;
+        height: 55%;
+    }
+    .header__img {
+        width: 32.07px;
+        height: 30px;
+    }
+    .img {
+        gap: 24px;
+    }
+    .header__img {
+        width: 32.07px;
+        height: 30px;
+    }
+    .International {
+        max-width: 31px;
+        font-size: 7px;
+        line-height: 13px;
+    }
+    .Ministry {
+        max-width: 86px;
+        font-size: 7px;
+        line-height: 13px;
+    }
+    .ES {
+        width: 32%;
+        height: 60%;
+    }
+    .uzb {
+        display: flex;
+        gap: 8px;
+    }
+    .Funded {
+        max-width: 53px;
+        line-height: 14px;
+        font-size: 8px;
+    }
+    .font {
+        left: 80px;
+    }
+    .right{
+        width: 70%;
+    }
+    .left{
+        width: 70%;
+    }
+    .news__block {
+        display: flex;
+        gap: 13px;
+    }
+    .news__title {
+        font-size: 35px;
+    }
+    .foresson__text {
+        font-size: 8px;
+    }
+    .box {
+        display: grid;
+        justify-content: center;
+        margin: 5px auto;
+        grid-template: repeat(2, 115px) / repeat(3, 225px);
+        gap: 15px;
+        grid-template-areas:
+            'one two tree'
+            'four five six';
+    }
+    .foresson__title {
+        font-size: 24px;
+        line-height: 48px;
+    }
+}
+@media(max-width:938px){
+    .news__box a {
+        padding: 13px;
+        gap: 5px;
+    }
+    .vision {
+        font-size: 11px;
+        line-height: 20px;
+    }
+    .news__text {
+        font-size: 12px;
+        line-height: 18px;
+    }
+    .news__block_text {
+        font-size: 10px;
+        line-height: 13px;
+    }
+    .turns {
+        padding: 10px 10px;
+    }
+    .bene__block {
+        display: flex;
+        gap: 13px;
+    }
+    .bene__title {
+        font-size: 31px;
+    }
+    .bene__box_duble a {
+        gap: 68px;
+        padding: 28px;
+    }
+    .bene__box a {
+        padding: 20px;
+        gap: 9px;
+    }
+    .news__title {
+        font-size: 31px;
+    }
+    .footer__input {
+        font-size: 14px;
+        width: 793px;
+        height: 110px;
+    }
+    .footer__textarea {
+        font-size: 14px;
+        height: 47px;
+    }
+    .contact__link a {
+        font-size: 14px;
+        padding: 15px 38px;
+    }
+    .contact__text {
+        font-size: 14px;
+    }
+    .contact__title {   
+        font-size: 32px;
+        line-height: 48px;
+    }
+    .footer__form {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 18px;
+        margin-bottom: 25px;
+    }
+    .contact__us {
+        display: flex;
+        flex-direction: column;
+        padding: 35px 35px;
+        gap: 10px;
+    }
+    .uzbekiston {
+        width: 50%;
+    }
+    .footer__text {
+        font-size: 17px;
+    }
+    .globus {
+        width: 4%;
+    }
+    .footer__quation {
+        display: flex;
+        flex-direction: column;
+        gap: 15px;
+    }
+    .footer__quation_text a {
+        font-size: 16px;
+    }
+    .footer__number a {
+        font-size: 15px;
+    }
+    .clink {
+        width: 5%;
+    }
+    .call {
+        width: 5%;
+    }
+    .footer__quar_link a {
+        font-size: 14px;
+    }
+    .quar__img {
+        width: 18%;
+    }
+    .footer__online {
+        font-size: 15px;
+    }
+    .footer__online span {
+        font-size: 15px;
+    }
+    .footer__use {
+        font-size: 13px;
+    }
+    .footer__copy {
+        font-size: 13px;
+    }
+    .footer__year {
+        font-size: 14px;
+    }
+    .box {
+        display: grid;
+        justify-content: center;
+        margin: 5px auto;
+        grid-template: repeat(3, 115px) / repeat(2, 225px);
+        gap: 15px;
+        grid-template-areas:
+            'one two'
+            'tree four'
+            'five six';
+    }
+    .Footer__quar, .Footer__mail, .Footer__call {
+        font-family: 'IR';
+        font-style: normal;
+        font-weight: 500;
+        font-size: 17px;
+        line-height: 24px;
+        color: #FFFFFF;
+    }
+}
+@media(max-width:885px){
+    .footer__network_one {
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+}
+@media(max-width:858px){
+    .cuation {
+        justify-content: space-between;
+        flex-direction: column;
+        gap: 11px;
+        padding: 15px 0;
+    }
+    .duble__lenguage a {
+        font-size: 13px;
+        line-height: 24px;
+    }
+    .duble__li a {
+        font-size: 12px;
+        line-height: 0px;
+    }
+    .title__h1 {
+        font-size: 20px;
+        line-height: 40px;
+    }
+    .factary__text {
+        font-size: 11px;
+        line-height: 20px;
+        margin-bottom: 28px;
+    }
+    .more a {
+        font-size: 11px;
+        line-height: 24px;
+        padding: 12px 28px;
+    }
+    .factary__text span {
+        font-size: 11px;
+        line-height: 21px;
+    }
+    .factary__text {
+        font-size: 11px;
+        line-height: 20px;
+    }
+    .title__h1 {
+        font-size: 22px;
+        line-height: 37px;
+    }
+    .news__vision {
+        display: flex;
+        gap: 15px;
+    }
+}
+@media(max-width:780px){
+    .news__vision {
+        display: flex;
+        gap: 15px;
+    }
+    .foressen {
+        display: flex;
+        flex-direction: column;
+        gap: 32px;
+        margin-top: 49px;
+    }
+    .nes__number {
+        display: flex;
+        align-items: center;
+        gap: 3px;
+    }
+    .vision {
+        font-size: 10px;
+        line-height: 20px;
+    }
+    .news__box_all {
+        justify-content: center;
+        display: flex;
+        gap: 22px;
+        flex-wrap: wrap;
+    }
+}
+@media(max-width:713px){
+    .font {
+        left: 54px;
+    }
+    .footer__duble {
+        display: flex;
+        justify-content: center;
+        gap: 20px;
+        padding: 16px 0px;
+        flex-wrap: wrap;
+    }
+    .img {
+        gap: 35px;
+    }
+    .ES {
+        width: 41px;
+        height: 83%;
+    }
+    .header__img {
+        width: 32.07px;
+        height: 30px;
+    }
+    .International {
+        max-width: 22px;
+        font-size: 7px;
+        line-height: 9px;
+    }
+    .Ministry {
+        max-width: 70px;
+        font-size: 6px;
+        line-height: 9px;
+    }
+    .Funded {
+        max-width: 39px;
+        line-height: 7px;
+        font-size: 7px;
+    }
+}
+@media(max-width:680px){
+    .news {
+        margin: 60px 0;
+    }
+}
+@media(max-width:664px){
+    .title__h1 {
+        font-size: 21px;
+        line-height: 32px;
+    }    
+    .factory__slise {
+        display: flex;
+        align-items: center;
+        gap: 15px;
+        margin-top: 60px;   
+    }
+    .box {
+        display: grid;
+        justify-content: center;
+        margin: 5px auto;
+        grid-template: repeat(6, 115px) / repeat(1, 225px);
+        gap: 15px;
+        grid-template-areas:
+            'one'
+            'two'
+            'tree'
+            'four'
+            'five'
+            'six';
+    }
+}
+@media(max-width:610px){
+    .Ministry {
+        max-width: 60px;
+        font-size: 5px;
+        line-height: 9px;
+    }
+    .img {
+        gap: 22px;
+    }
+    .header__img {
+        width: 25.07px;
+        height: 22px;
+    }
+    .International {
+        max-width: 22px;
+        font-size: 6px;
+        line-height: 9px;
+    }
+    .Ministry {
+        max-width: 61px;
+        font-size: 5px;
+        line-height: 9px;
+    }
+    .ES {
+        width: 33px;
+        height: 74%;
+    }
+    .Funded {
+        max-width: 39px;
+        line-height: 7px;
+        font-size: 6px;
+    }
+}
+@media(max-width:566px){
+    .Ministry {
+        max-width: 60px;
+        font-size: 5px;
+        line-height: 9px;
+    }
+    .duble__ol {
+        display: flex;
+        justify-content: center;
+        flex-wrap: wrap;
+        gap: 15px;
+    }
+    .img {
+        gap: 22px;
+    }
+    .header__img {
+        width: 25.07px;
+        height: 22px;
+    }
+    .International {
+        max-width: 22px;
+        font-size: 6px;
+        line-height: 9px;
+    }
+    .Ministry {
+        max-width: 61px;
+        font-size: 5px;
+        line-height: 9px;
+    }
+    .ES {
+        width: 33px;
+        height: 74%;
+    }
+    .Funded {
+        max-width: 39px;
+        line-height: 7px;
+        font-size: 6px;
+    }   
+}
+@media(max-width:500px){
+    .factory__slise {
+        display: flex;
+        align-items: center;
+        gap: 15px;
+        flex-direction: column-reverse;
+        margin-top: 120px;
+    }
+    .factory__img {
+        width: 69%;
+    }
+}
+@media(max-width:464px){
+    .ES {
+        width: 39px;
+        height: 81%;
+    }
+    .header__img {
+        width: 17.07px;
+        height: 15px;
+    }
+    .International {
+        max-width: 22px;
+        font-size: 3px;
+        line-height: 6px;
+    } 
+    .globus {
+        width: 5%;
+    }  
+    .img {
+        gap: 3px;
+    }
+    .Ministry {
+        max-width: 52px;
+        font-size: 4px;
+        line-height: 6px;
+    }
+    .Funded {
+        max-width: 34px;
+        line-height: 6px;
+        font-size: 5px;
+    }
+}
+@media(max-width:440px){
+    .footer__textarea {
+        font-size: 14px;
+        height: 47px;
+        width: 215px;
+
+    }
+    .contact__us {
+        display: flex;
+        flex-direction: column;
+        padding: 35px 35px;
+        gap: 7px;
+    }
+    .contact__text {
+        font-size: 13px;
+    }
+    .contact__title {
+        font-size: 28px;
+        line-height: 48px;
+    }
+    .contact__link a {
+        font-size: 12px;
+        padding: 12px 32px;
+    }
+}
+@media(max-width:405px){
+    .font {
+        left: 31px;
+    }
+    .International {
+        max-width: 22px;
+        font-size: 4px;
+    }
+    .Ministry {
+        max-width: 38px;
+        font-size: 3px;
+        line-height: 5px;
+    }
+    .Funded {
+        max-width: 34px;
+        line-height: 6px;
+        font-size: 5px;
+    }
+    .ES {
+        width: 26px;
+        height: 64%;
+    }   
+}
+@media(max-width:400px){
+    .call {
+        height: 80%;
+        width: 5%;
+    }
+    .Footer__quar, .Footer__mail, .Footer__call {
+        font-size: 15px;
+    }
+    .quar__link {
+        display: flex;
+        flex-direction: column;
+        gap: 8px;
+    }
+    .clink {
+        width: 5%;
+        height: 77%;
+    }
+    .footer__quar_link a {
+        font-size: 11px;
+    }
+}
+@media(max-width:370px){
+    .bene__inter {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        margin-bottom: 20px;
+    }
+    .bene__title {
+        font-size: 26px;
+    }   
+    .turns {
+        padding: 7px 7px;
+    }.left {
+        width: 55%;
+    }
+    .right {
+        width: 55%;
+    }
+}
+@media(max-width:350px){
+    .news__text {
+        font-size: 10px;
+        line-height: 15px;
+    }
+    .news__block_text {
+        font-size: 8px;
+        line-height: 11px;
+    }   
+}
+@media(max-width:332px){
+    .footer__textarea {
+        font-size: 14px;
+        height: 47px;
+        width: 140px;
+    }    
+    .globus {
+        width: 7%;
+    }  
+    .factory__slise {
+        margin-top: 52px;
+    } 
+}

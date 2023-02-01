@@ -1,0 +1,26 @@
+@font-face {
+    font-family: 'AR';
+    src: url('../fonts/Alef-Regular.ttf');
+    font-style: normal;
+    font-weight: normal;
+}
+@font-face {
+    font-family: 'IM';
+    src: url('../fonts/Inter-Medium.ttf');
+    font-style: normal;
+    font-weight: normal;
+}
+@font-face {
+    font-family: 'IR';
+    src: url('../fonts/Inter-Regular.ttf');
+    font-style: normal;
+    font-weight: normal;
+}
+@font-face {
+    font-family: 'KR';
+    src: url('../fonts/KaiseiOpti-Regular.ttf');
+    font-style: normal;
+    font-weight: normal;
+}
+
+
